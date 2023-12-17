@@ -1,0 +1,15 @@
+C:\Users\MARY GRACE\source\repos\TreeAlgo\bin\Debug\net6.0\TreeAlgo.exe
+C:\Users\MARY GRACE\source\repos\TreeAlgo\bin\Debug\net6.0\TreeAlgo.deps.json
+C:\Users\MARY GRACE\source\repos\TreeAlgo\bin\Debug\net6.0\TreeAlgo.runtimeconfig.json
+C:\Users\MARY GRACE\source\repos\TreeAlgo\bin\Debug\net6.0\TreeAlgo.dll
+C:\Users\MARY GRACE\source\repos\TreeAlgo\bin\Debug\net6.0\TreeAlgo.pdb
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\TreeAlgo.csproj.AssemblyReference.cache
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\TreeAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\TreeAlgo.AssemblyInfoInputs.cache
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\TreeAlgo.AssemblyInfo.cs
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\TreeAlgo.csproj.CoreCompileInputs.cache
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\TreeAlgo.dll
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\refint\TreeAlgo.dll
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\TreeAlgo.pdb
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\TreeAlgo.genruntimeconfig.cache
+C:\Users\MARY GRACE\source\repos\TreeAlgo\obj\Debug\net6.0\ref\TreeAlgo.dll
