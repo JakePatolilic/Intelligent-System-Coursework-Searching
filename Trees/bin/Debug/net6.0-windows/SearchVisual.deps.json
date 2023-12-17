@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SearchVisual/1.0.0": {
+        "dependencies": {
+          "SearchAlgo": "1.0.0"
+        },
+        "runtime": {
+          "SearchVisual.dll": {}
+        }
+      },
+      "SearchAlgo/1.0.0": {
+        "runtime": {
+          "SearchAlgo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SearchVisual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchAlgo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

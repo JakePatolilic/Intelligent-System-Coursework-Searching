@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchVisual", "SearchVisual.csproj", "{D6925105-37BD-46E0-B976-E5AA0DF69659}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchAlgo", "..\TreeAlgo\SearchAlgo.csproj", "{1A396112-4C2C-43EB-8472-309C3E5E2A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6925105-37BD-46E0-B976-E5AA0DF69659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6925105-37BD-46E0-B976-E5AA0DF69659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6925105-37BD-46E0-B976-E5AA0DF69659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6925105-37BD-46E0-B976-E5AA0DF69659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A396112-4C2C-43EB-8472-309C3E5E2A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A396112-4C2C-43EB-8472-309C3E5E2A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A396112-4C2C-43EB-8472-309C3E5E2A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A396112-4C2C-43EB-8472-309C3E5E2A85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897465DD-4079-438B-B4C4-6BF4F0802958}
+	EndGlobalSection
+EndGlobal
